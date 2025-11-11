@@ -68,10 +68,10 @@ Weitere Informationen auf [www.regenauer.press](https://www.regenauer.press/)
 
 ## scans
 
-### TODO_BOOK_TORRENT_NAME
+### hopium.von.tom.oliver.regenauer.2025.600dpi.tiff.german.book.scan
 
 ```
-TODO_BOOK_TORRENT_MAGNET_LINK
+magnet:?xt=urn:btih:9d4e164b5bc209e74bb3550ff9cb9e80f81d66c1&dn=hopium.von.tom.oliver.regenauer.2025.600dpi.tiff.german.book.scan&xl=1208925488&tr=udp%3A%2F%2F45.9.60.30%3A6969%2Fannounce&tr=udp%3A%2F%2F185.216.179.62%3A25%2Fannounce&tr=udp%3A%2F%2F93.158.213.92%3A1337%2Fannounce&tr=udp%3A%2F%2F107.189.2.131%3A1337%2Fannounce&piece_size=4194304
 ```
 
 ## mirrors
