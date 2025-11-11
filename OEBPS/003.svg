@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ version="1.1" viewBox="0 0 1391 2154"
+ width="1391" height="2154"
+ style="margin:auto"
+>
+<style>
+text, tspan { dominant-baseline: mathematical; fill: transparent; }
+svg { background: #e2e2e2; }
+@media (prefers-color-scheme: dark) {
+ svg { background: #1b1b1b; }
+ image { filter: invert(); }
+}
+</style>
+<image x="0" y="0" width="1391" height="2154" preserveAspectRatio="none" xlink:href="images/003.avif"/>
+<text x="461.5" y="334.5" xml:space="preserve"> </text>
+<text x="461.5" y="335.5">
+  <tspan x="461.5" y="380.5" font-size="90.0px" textLength="497.5" lengthAdjust="spacingAndGlyphs">HOPIUM</tspan>
+</text>
+<text x="198.5" y="516.5" xml:space="preserve"> </text>
+<text x="198.5" y="517.5">
+  <tspan x="198.5" y="533.25" font-size="27.5px" textLength="93.5" lengthAdjust="spacingAndGlyphs">Texte</tspan>
+  <tspan x="304.0" y="536.5" font-size="21.0px" textLength="39.5" lengthAdjust="spacingAndGlyphs">zu</tspan>
+  <tspan x="355.5" y="534.5" font-size="34.0px" textLength="230.0" lengthAdjust="spacingAndGlyphs">Zeitenwende,</tspan>
+  <tspan x="598.0" y="532.25" font-size="29.5px" textLength="227.0" lengthAdjust="spacingAndGlyphs">Technokratie</tspan>
+  <tspan x="837.0" y="532.25" font-size="28.5px" textLength="66.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="914.0" y="536.75" font-size="37.5px" textLength="255.0" lengthAdjust="spacingAndGlyphs">Korporatismus</tspan>
+  <tspan x="1181.0" y="533.0" font-size="27.0px" textLength="39.0" lengthAdjust="spacingAndGlyphs">III</tspan>
+</text>
+<text x="414.5" y="1323.5" xml:space="preserve"> </text>
+<text x="414.5" y="1324.5">
+  <tspan x="414.5" y="1347.25" font-size="29.5px" textLength="280.5" lengthAdjust="spacingAndGlyphs">regenauer.press</tspan>
+  <tspan x="714.0" y="1343.25" font-size="36.5px" textLength="2.5" lengthAdjust="spacingAndGlyphs">|</tspan>
+  <tspan x="734.5" y="1342.75" font-size="36.5px" textLength="188.5" lengthAdjust="spacingAndGlyphs">Anthologie</tspan>
+  <tspan x="935.5" y="1339.25" font-size="27.5px" textLength="75.5" lengthAdjust="spacingAndGlyphs">2024</tspan>
+</text>
+<text x="517.5" y="1858.5" xml:space="preserve"> </text>
+<text x="517.5" y="1859.5">
+  <tspan x="517.5" y="1874.25" font-size="29.5px" textLength="195.0" lengthAdjust="spacingAndGlyphs">Tom-Oliver</tspan>
+  <tspan x="724.0" y="1878.75" font-size="35.5px" textLength="184.5" lengthAdjust="spacingAndGlyphs">Regenauer</tspan>
+</text>
+</svg>

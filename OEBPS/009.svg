@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ version="1.1" viewBox="0 0 1390 2152"
+ width="1390" height="2152"
+ style="margin:auto"
+>
+<style>
+text, tspan { dominant-baseline: mathematical; fill: transparent; }
+svg { background: #e2e2e2; }
+@media (prefers-color-scheme: dark) {
+ svg { background: #1b1b1b; }
+ image { filter: invert(); }
+}
+</style>
+<image x="0" y="0" width="1390" height="2152" preserveAspectRatio="none" xlink:href="images/009.avif"/>
+<text x="280.0" y="938.5" xml:space="preserve"> </text>
+<text x="280.0" y="939.5">
+  <tspan x="280.0" y="959.75" font-size="29.5px" textLength="72.5" lengthAdjust="spacingAndGlyphs">»Die</tspan>
+  <tspan x="364.5" y="963.75" font-size="37.5px" textLength="162.0" lengthAdjust="spacingAndGlyphs">Hoffnung</tspan>
+  <tspan x="536.0" y="963.5" font-size="3.0px" textLength="19.0" lengthAdjust="spacingAndGlyphs">—</tspan>
+  <tspan x="565.0" y="959.5" font-size="29.0px" textLength="33.0" lengthAdjust="spacingAndGlyphs">in</tspan>
+  <tspan x="609.0" y="959.5" font-size="29.0px" textLength="162.5" lengthAdjust="spacingAndGlyphs">Wahrheit</tspan>
+  <tspan x="783.5" y="959.5" font-size="29.0px" textLength="55.5" lengthAdjust="spacingAndGlyphs">das</tspan>
+  <tspan x="851.0" y="959.75" font-size="29.5px" textLength="123.5" lengthAdjust="spacingAndGlyphs">übelste</tspan>
+  <tspan x="987.5" y="959.75" font-size="29.5px" textLength="57.0" lengthAdjust="spacingAndGlyphs">der</tspan>
+  <tspan x="1055.0" y="959.25" font-size="39.5px" textLength="85.5" lengthAdjust="spacingAndGlyphs">Übel,</tspan>
+  <tspan x="330.0" y="1013.0" font-size="29.0px" textLength="73.0" lengthAdjust="spacingAndGlyphs">weil</tspan>
+  <tspan x="414.5" y="1013.0" font-size="29.0px" textLength="45.5" lengthAdjust="spacingAndGlyphs">sie</tspan>
+  <tspan x="473.0" y="1013.0" font-size="29.0px" textLength="50.0" lengthAdjust="spacingAndGlyphs">die</tspan>
+  <tspan x="536.0" y="1017.25" font-size="37.5px" textLength="79.5" lengthAdjust="spacingAndGlyphs">Qual</tspan>
+  <tspan x="627.5" y="1012.75" font-size="29.5px" textLength="57.0" lengthAdjust="spacingAndGlyphs">der</tspan>
+  <tspan x="695.5" y="1013.0" font-size="29.0px" textLength="173.0" lengthAdjust="spacingAndGlyphs">Menschen</tspan>
+  <tspan x="879.0" y="1017.25" font-size="37.5px" textLength="209.5" lengthAdjust="spacingAndGlyphs">verlängert.«</tspan>
+</text>
+<text x="529.5" y="1105.0" xml:space="preserve"> </text>
+<text x="529.5" y="1106.0">
+  <tspan x="529.5" y="1122.75" font-size="33.5px" textLength="173.5" lengthAdjust="spacingAndGlyphs">(Friedrich</tspan>
+  <tspan x="715.0" y="1122.5" font-size="33.0px" textLength="178.0" lengthAdjust="spacingAndGlyphs">Nietzsche)</tspan>
+</text>
+</svg>

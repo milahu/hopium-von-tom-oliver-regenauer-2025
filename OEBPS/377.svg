@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ version="1.1" viewBox="0 0 1416 2240"
+ width="1416" height="2240"
+ style="margin:auto"
+>
+<style>
+text, tspan { dominant-baseline: mathematical; fill: transparent; }
+svg { background: #e2e2e2; }
+@media (prefers-color-scheme: dark) {
+ svg { background: #1b1b1b; }
+ image { filter: invert(); }
+}
+</style>
+<image x="0" y="0" width="1416" height="2240" preserveAspectRatio="none" xlink:href="images/377.avif"/>
+<text x="140.0" y="161.0" xml:space="preserve"> </text>
+<text x="140.0" y="162.0">
+  <tspan x="140.0" y="273.75" font-size="223.5px" textLength="1144.0" lengthAdjust="spacingAndGlyphs">HOPIUM</tspan>
+</text>
+<text x="249.0" y="444.5" xml:space="preserve"> </text>
+<text x="249.0" y="445.5">
+  <tspan x="249.0" y="461.0" font-size="27.0px" textLength="86.5" lengthAdjust="spacingAndGlyphs">Texte</tspan>
+  <tspan x="346.0" y="464.5" font-size="20.0px" textLength="32.5" lengthAdjust="spacingAndGlyphs">zu</tspan>
+  <tspan x="389.0" y="462.75" font-size="34.5px" textLength="214.5" lengthAdjust="spacingAndGlyphs">Zeitenwende,</tspan>
+  <tspan x="613.0" y="460.0" font-size="29.0px" textLength="206.5" lengthAdjust="spacingAndGlyphs">Technokratie</tspan>
+  <tspan x="831.0" y="460.0" font-size="29.0px" textLength="57.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="901.5" y="464.25" font-size="34.5px" textLength="227.5" lengthAdjust="spacingAndGlyphs">Korporatismus</tspan>
+  <tspan x="1141.0" y="460.5" font-size="27.0px" textLength="22.0" lengthAdjust="spacingAndGlyphs">Ill</tspan>
+</text>
+<text x="516.5" y="2148.5" xml:space="preserve"> </text>
+<text x="516.5" y="2149.5">
+  <tspan x="516.5" y="2164.0" font-size="29.0px" textLength="188.0" lengthAdjust="spacingAndGlyphs">Tom-Oliver</tspan>
+  <tspan x="718.0" y="2168.5" font-size="34.0px" textLength="179.0" lengthAdjust="spacingAndGlyphs">Regenauer</tspan>
+</text>
+</svg>

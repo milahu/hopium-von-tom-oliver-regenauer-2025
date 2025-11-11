@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ version="1.1" viewBox="0 0 1384 2126"
+ width="1384" height="2126"
+ style="margin:auto"
+>
+<style>
+text, tspan { dominant-baseline: mathematical; fill: transparent; }
+svg { background: #e2e2e2; }
+@media (prefers-color-scheme: dark) {
+ svg { background: #1b1b1b; }
+ image { filter: invert(); }
+}
+</style>
+<image x="0" y="0" width="1384" height="2126" preserveAspectRatio="none" xlink:href="images/128.avif"/>
+<text x="29.0" y="283.0" xml:space="preserve"> </text>
+<text x="29.0" y="284.0">
+  <tspan x="29.0" y="354.75" font-size="141.5px" textLength="55.5" lengthAdjust="spacingAndGlyphs">128</tspan>
+</text>
+<text x="191.0" y="113.5" xml:space="preserve"> </text>
+<text x="191.0" y="114.5">
+  <tspan x="191.0" y="129.75" font-size="29.5px" textLength="134.5" lengthAdjust="spacingAndGlyphs">Einfluss</tspan>
+  <tspan x="337.5" y="129.5" font-size="29.0px" textLength="58.0" lengthAdjust="spacingAndGlyphs">auf</tspan>
+  <tspan x="404.5" y="129.5" font-size="29.0px" textLength="50.0" lengthAdjust="spacingAndGlyphs">die</tspan>
+  <tspan x="466.5" y="133.25" font-size="37.5px" textLength="215.0" lengthAdjust="spacingAndGlyphs">Entwicklung</tspan>
+  <tspan x="691.5" y="133.0" font-size="21.0px" textLength="63.0" lengthAdjust="spacingAndGlyphs">von</tspan>
+  <tspan x="766.5" y="129.25" font-size="29.5px" textLength="129.5" lengthAdjust="spacingAndGlyphs">Bitcoin.</tspan>
+  <tspan x="908.5" y="130.25" font-size="27.5px" textLength="60.5" lengthAdjust="spacingAndGlyphs">Das</tspan>
+  <tspan x="980.5" y="129.75" font-size="27.5px" textLength="60.5" lengthAdjust="spacingAndGlyphs">DCI</tspan>
+  <tspan x="1052.5" y="131.0" font-size="25.0px" textLength="105.5" lengthAdjust="spacingAndGlyphs">unter-</tspan>
+  <tspan x="192.0" y="183.75" font-size="28.5px" textLength="114.5" lengthAdjust="spacingAndGlyphs">stützte</tspan>
+  <tspan x="318.0" y="187.5" font-size="37.0px" textLength="202.0" lengthAdjust="spacingAndGlyphs">prominente</tspan>
+  <tspan x="532.0" y="183.0" font-size="29.0px" textLength="402.5" lengthAdjust="spacingAndGlyphs">Bitcoin-Kernentwickler</tspan>
+  <tspan x="945.0" y="182.75" font-size="28.5px" textLength="59.0" lengthAdjust="spacingAndGlyphs">wie</tspan>
+  <tspan x="1015.5" y="182.5" font-size="29.0px" textLength="165.0" lengthAdjust="spacingAndGlyphs">Wladimir</tspan>
+  <tspan x="189.5" y="241.0" font-size="21.0px" textLength="62.5" lengthAdjust="spacingAndGlyphs">van</tspan>
+  <tspan x="264.5" y="237.0" font-size="29.0px" textLength="56.5" lengthAdjust="spacingAndGlyphs">der</tspan>
+  <tspan x="332.0" y="237.75" font-size="27.5px" textLength="84.0" lengthAdjust="spacingAndGlyphs">Laan</tspan>
+  <tspan x="427.0" y="237.0" font-size="29.0px" textLength="65.5" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="505.0" y="241.5" font-size="36.0px" textLength="78.5" lengthAdjust="spacingAndGlyphs">Cory</tspan>
+  <tspan x="594.5" y="239.0" font-size="34.0px" textLength="109.5" lengthAdjust="spacingAndGlyphs">Fields,</tspan>
+  <tspan x="717.5" y="236.5" font-size="29.0px" textLength="50.5" lengthAdjust="spacingAndGlyphs">die</tspan>
+  <tspan x="780.5" y="236.5" font-size="29.0px" textLength="71.0" lengthAdjust="spacingAndGlyphs">eine</tspan>
+  <tspan x="864.0" y="236.5" font-size="29.0px" textLength="248.0" lengthAdjust="spacingAndGlyphs">entscheidende</tspan>
+  <tspan x="1124.0" y="236.5" font-size="29.0px" textLength="85.5" lengthAdjust="spacingAndGlyphs">Rolle</tspan>
+  <tspan x="191.5" y="291.0" font-size="29.0px" textLength="52.0" lengthAdjust="spacingAndGlyphs">bei</tspan>
+  <tspan x="255.5" y="291.0" font-size="29.0px" textLength="56.0" lengthAdjust="spacingAndGlyphs">der</tspan>
+  <tspan x="322.0" y="294.75" font-size="37.5px" textLength="257.5" lengthAdjust="spacingAndGlyphs">Aktualisierung</tspan>
+  <tspan x="590.5" y="290.5" font-size="29.0px" textLength="66.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="666.5" y="294.5" font-size="38.0px" textLength="229.0" lengthAdjust="spacingAndGlyphs">Verfeinerung</tspan>
+  <tspan x="907.0" y="290.5" font-size="29.0px" textLength="56.5" lengthAdjust="spacingAndGlyphs">der</tspan>
+  <tspan x="975.0" y="290.25" font-size="29.5px" textLength="228.0" lengthAdjust="spacingAndGlyphs">Bitcoin-Code-</tspan>
+  <tspan x="191.5" y="344.75" font-size="29.5px" textLength="85.0" lengthAdjust="spacingAndGlyphs">basis</tspan>
+  <tspan x="289.0" y="348.75" font-size="37.5px" textLength="144.0" lengthAdjust="spacingAndGlyphs">spielten,</tspan>
+  <tspan x="447.0" y="344.25" font-size="29.5px" textLength="240.5" lengthAdjust="spacingAndGlyphs">einschließlich</tspan>
+  <tspan x="699.5" y="344.0" font-size="29.0px" textLength="56.5" lengthAdjust="spacingAndGlyphs">der</tspan>
+  <tspan x="767.5" y="348.25" font-size="37.5px" textLength="303.0" lengthAdjust="spacingAndGlyphs">Implementierung</tspan>
+  <tspan x="1080.5" y="348.0" font-size="21.0px" textLength="63.0" lengthAdjust="spacingAndGlyphs">von</tspan>
+  <tspan x="192.5" y="402.0" font-size="38.0px" textLength="187.5" lengthAdjust="spacingAndGlyphs">Segregated</tspan>
+  <tspan x="390.5" y="397.75" font-size="28.5px" textLength="136.0" lengthAdjust="spacingAndGlyphs">Witness</tspan>
+  <tspan x="539.0" y="401.75" font-size="37.5px" textLength="152.5" lengthAdjust="spacingAndGlyphs">(SegWit).</tspan>
+  <tspan x="704.0" y="397.5" font-size="29.0px" textLength="52.5" lengthAdjust="spacingAndGlyphs">Ich</tspan>
+  <tspan x="767.5" y="397.5" font-size="29.0px" textLength="106.5" lengthAdjust="spacingAndGlyphs">werde</tspan>
+  <tspan x="887.0" y="399.5" font-size="33.0px" textLength="53.5" lengthAdjust="spacingAndGlyphs">(...)</tspan>
+  <tspan x="952.5" y="397.5" font-size="29.0px" textLength="88.0" lengthAdjust="spacingAndGlyphs">nicht</tspan>
+  <tspan x="1051.5" y="397.5" font-size="29.0px" textLength="101.5" lengthAdjust="spacingAndGlyphs">näher</tspan>
+  <tspan x="192.0" y="451.5" font-size="29.0px" textLength="57.5" lengthAdjust="spacingAndGlyphs">auf</tspan>
+  <tspan x="257.5" y="455.75" font-size="37.5px" textLength="117.5" lengthAdjust="spacingAndGlyphs">SegWit</tspan>
+  <tspan x="387.5" y="455.5" font-size="37.0px" textLength="163.5" lengthAdjust="spacingAndGlyphs">eingehen,</tspan>
+  <tspan x="564.0" y="451.25" font-size="29.5px" textLength="140.0" lengthAdjust="spacingAndGlyphs">sondern</tspan>
+  <tspan x="715.5" y="455.0" font-size="21.0px" textLength="61.5" lengthAdjust="spacingAndGlyphs">nur</tspan>
+  <tspan x="788.0" y="451.0" font-size="29.0px" textLength="78.0" lengthAdjust="spacingAndGlyphs">kurz</tspan>
+  <tspan x="878.5" y="458.75" font-size="30.5px" textLength="104.5" lengthAdjust="spacingAndGlyphs">sagen,</tspan>
+  <tspan x="996.5" y="451.0" font-size="29.0px" textLength="72.5" lengthAdjust="spacingAndGlyphs">dass</tspan>
+  <tspan x="1081.5" y="455.25" font-size="37.5px" textLength="117.5" lengthAdjust="spacingAndGlyphs">SegWit</tspan>
+  <tspan x="192.0" y="505.0" font-size="29.0px" textLength="70.5" lengthAdjust="spacingAndGlyphs">eine</tspan>
+  <tspan x="274.0" y="505.0" font-size="29.0px" textLength="183.0" lengthAdjust="spacingAndGlyphs">technische</tspan>
+  <tspan x="468.5" y="505.75" font-size="42.5px" textLength="171.5" lengthAdjust="spacingAndGlyphs">Änderung</tspan>
+  <tspan x="650.0" y="510.75" font-size="25.5px" textLength="74.5" lengthAdjust="spacingAndGlyphs">war,</tspan>
+  <tspan x="738.0" y="504.5" font-size="29.0px" textLength="51.0" lengthAdjust="spacingAndGlyphs">die</tspan>
+  <tspan x="801.5" y="504.5" font-size="29.0px" textLength="229.0" lengthAdjust="spacingAndGlyphs">entscheidend</tspan>
+  <tspan x="1042.5" y="504.5" font-size="29.0px" textLength="81.0" lengthAdjust="spacingAndGlyphs">dazu</tspan>
+  <tspan x="192.0" y="562.0" font-size="37.0px" textLength="133.5" lengthAdjust="spacingAndGlyphs">beitrug,</tspan>
+  <tspan x="338.5" y="557.75" font-size="28.5px" textLength="121.0" lengthAdjust="spacingAndGlyphs">Bitcoin</tspan>
+  <tspan x="470.0" y="561.5" font-size="21.0px" textLength="63.0" lengthAdjust="spacingAndGlyphs">von</tspan>
+  <tspan x="545.0" y="557.75" font-size="28.5px" textLength="104.5" lengthAdjust="spacingAndGlyphs">einem</tspan>
+  <tspan x="660.5" y="557.5" font-size="29.0px" textLength="225.0" lengthAdjust="spacingAndGlyphs">Tauschmittel</tspan>
+  <tspan x="897.5" y="561.75" font-size="37.5px" textLength="158.0" lengthAdjust="spacingAndGlyphs">(digitales</tspan>
+  <tspan x="1067.0" y="561.75" font-size="37.5px" textLength="145.0" lengthAdjust="spacingAndGlyphs">Bargeld)</tspan>
+  <tspan x="192.5" y="615.25" font-size="20.5px" textLength="39.0" lengthAdjust="spacingAndGlyphs">zu</tspan>
+  <tspan x="243.5" y="611.0" font-size="29.0px" textLength="104.0" lengthAdjust="spacingAndGlyphs">einem</tspan>
+  <tspan x="358.0" y="615.25" font-size="37.5px" textLength="232.5" lengthAdjust="spacingAndGlyphs">Wertspeicher</tspan>
+  <tspan x="602.5" y="615.25" font-size="37.5px" textLength="157.5" lengthAdjust="spacingAndGlyphs">(digitales</tspan>
+  <tspan x="773.5" y="613.0" font-size="33.0px" textLength="90.0" lengthAdjust="spacingAndGlyphs">Gold)</tspan>
+  <tspan x="876.0" y="614.75" font-size="20.5px" textLength="39.0" lengthAdjust="spacingAndGlyphs">zu</tspan>
+  <tspan x="926.0" y="611.0" font-size="29.0px" textLength="162.5" lengthAdjust="spacingAndGlyphs">machen.«</tspan>
+</text>
+<text x="139.5" y="702.5" xml:space="preserve"> </text>
+<text x="139.5" y="703.5">
+  <tspan x="139.5" y="719.25" font-size="27.5px" textLength="60.0" lengthAdjust="spacingAndGlyphs">Das</tspan>
+  <tspan x="212.0" y="718.25" font-size="28.5px" textLength="144.5" lengthAdjust="spacingAndGlyphs">Narrativ</tspan>
+  <tspan x="369.0" y="718.25" font-size="28.5px" textLength="54.0" lengthAdjust="spacingAndGlyphs">des</tspan>
+  <tspan x="436.5" y="722.5" font-size="37.0px" textLength="148.5" lengthAdjust="spacingAndGlyphs">digitalen</tspan>
+  <tspan x="598.0" y="718.0" font-size="29.0px" textLength="111.5" lengthAdjust="spacingAndGlyphs">Goldes</tspan>
+  <tspan x="722.0" y="722.25" font-size="37.5px" textLength="123.0" lengthAdjust="spacingAndGlyphs">festigte</tspan>
+  <tspan x="858.5" y="718.25" font-size="28.5px" textLength="65.5" lengthAdjust="spacingAndGlyphs">sich</tspan>
+  <tspan x="936.0" y="718.25" font-size="28.5px" textLength="43.0" lengthAdjust="spacingAndGlyphs">im</tspan>
+  <tspan x="992.5" y="718.5" font-size="29.0px" textLength="137.5" lengthAdjust="spacingAndGlyphs">Oktober</tspan>
+  <tspan x="1142.0" y="719.25" font-size="27.5px" textLength="76.5" lengthAdjust="spacingAndGlyphs">2017</tspan>
+  <tspan x="140.5" y="772.0" font-size="29.0px" textLength="99.5" lengthAdjust="spacingAndGlyphs">durch</tspan>
+  <tspan x="253.5" y="772.0" font-size="29.0px" textLength="55.0" lengthAdjust="spacingAndGlyphs">das</tspan>
+  <tspan x="322.0" y="776.0" font-size="37.0px" textLength="120.0" lengthAdjust="spacingAndGlyphs">einzige</tspan>
+  <tspan x="455.5" y="774.25" font-size="33.5px" textLength="172.5" lengthAdjust="spacingAndGlyphs">Interview,</tspan>
+  <tspan x="642.0" y="771.75" font-size="29.5px" textLength="55.5" lengthAdjust="spacingAndGlyphs">das</tspan>
+  <tspan x="711.0" y="771.5" font-size="29.0px" textLength="56.0" lengthAdjust="spacingAndGlyphs">der</tspan>
+  <tspan x="778.5" y="775.75" font-size="37.5px" textLength="171.0" lengthAdjust="spacingAndGlyphs">pädophile</tspan>
+  <tspan x="963.0" y="772.0" font-size="29.0px" textLength="175.5" lengthAdjust="spacingAndGlyphs">Milliardär</tspan>
+  <tspan x="1150.0" y="772.0" font-size="29.0px" textLength="67.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="140.0" y="825.75" font-size="29.5px" textLength="302.5" lengthAdjust="spacingAndGlyphs">Menschenhändler</tspan>
+  <tspan x="451.0" y="829.5" font-size="38.0px" textLength="112.5" lengthAdjust="spacingAndGlyphs">Jeffrey</tspan>
+  <tspan x="572.5" y="829.75" font-size="37.5px" textLength="123.5" lengthAdjust="spacingAndGlyphs">Epstein</tspan>
+  <tspan x="704.5" y="829.75" font-size="37.5px" textLength="108.5" lengthAdjust="spacingAndGlyphs">jemals</tspan>
+  <tspan x="824.0" y="829.5" font-size="21.0px" textLength="71.0" lengthAdjust="spacingAndGlyphs">zum</tspan>
+  <tspan x="905.0" y="825.5" font-size="29.0px" textLength="113.5" lengthAdjust="spacingAndGlyphs">Thema</tspan>
+  <tspan x="1029.5" y="825.75" font-size="29.5px" textLength="116.5" lengthAdjust="spacingAndGlyphs">Bitcoin</tspan>
+  <tspan x="1156.0" y="830.0" font-size="38.0px" textLength="66.5" lengthAdjust="spacingAndGlyphs">gab.</tspan>
+  <tspan x="140.0" y="884.75" font-size="35.5px" textLength="64.0" lengthAdjust="spacingAndGlyphs">Day</tspan>
+  <tspan x="215.0" y="879.5" font-size="29.0px" textLength="137.0" lengthAdjust="spacingAndGlyphs">schreibt</tspan>
+  <tspan x="364.0" y="883.75" font-size="37.5px" textLength="240.0" lengthAdjust="spacingAndGlyphs">diesbezüglich:</tspan>
+</text>
+<text x="139.5" y="971.0" xml:space="preserve"> </text>
+<text x="139.5" y="972.0">
+  <tspan x="139.5" y="990.75" font-size="37.5px" textLength="119.0" lengthAdjust="spacingAndGlyphs">»Jeffrey</tspan>
+  <tspan x="268.5" y="991.0" font-size="37.0px" textLength="138.5" lengthAdjust="spacingAndGlyphs">Epsteins</tspan>
+  <tspan x="417.5" y="990.75" font-size="37.5px" textLength="196.0" lengthAdjust="spacingAndGlyphs">Darstellung</tspan>
+  <tspan x="623.0" y="990.5" font-size="21.0px" textLength="59.0" lengthAdjust="spacingAndGlyphs">von</tspan>
+  <tspan x="692.5" y="986.75" font-size="28.5px" textLength="116.5" lengthAdjust="spacingAndGlyphs">Bitcoin</tspan>
+  <tspan x="821.5" y="986.75" font-size="28.5px" textLength="46.0" lengthAdjust="spacingAndGlyphs">als</tspan>
+  <tspan x="881.5" y="991.0" font-size="37.0px" textLength="346.0" lengthAdjust="spacingAndGlyphs">Wertaufbewahrungs-</tspan>
+  <tspan x="141.0" y="1040.5" font-size="29.0px" textLength="91.5" lengthAdjust="spacingAndGlyphs">mittel</tspan>
+  <tspan x="242.0" y="1040.25" font-size="28.5px" textLength="58.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="308.5" y="1040.5" font-size="29.0px" textLength="78.5" lengthAdjust="spacingAndGlyphs">nicht</tspan>
+  <tspan x="395.5" y="1040.5" font-size="29.0px" textLength="44.0" lengthAdjust="spacingAndGlyphs">als</tspan>
+  <tspan x="451.0" y="1044.5" font-size="37.0px" textLength="146.5" lengthAdjust="spacingAndGlyphs">Währung</tspan>
+  <tspan x="604.0" y="1044.5" font-size="37.0px" textLength="119.5" lengthAdjust="spacingAndGlyphs">spiegelt</tspan>
+  <tspan x="732.5" y="1040.25" font-size="29.5px" textLength="45.0" lengthAdjust="spacingAndGlyphs">die</tspan>
+  <tspan x="786.0" y="1040.5" font-size="29.0px" textLength="61.5" lengthAdjust="spacingAndGlyphs">sich</tspan>
+  <tspan x="857.5" y="1040.5" font-size="29.0px" textLength="169.0" lengthAdjust="spacingAndGlyphs">wandelnde</tspan>
+  <tspan x="1034.0" y="1044.75" font-size="37.5px" textLength="187.0" lengthAdjust="spacingAndGlyphs">Darstellung</tspan>
+  <tspan x="140.0" y="1093.75" font-size="28.5px" textLength="52.5" lengthAdjust="spacingAndGlyphs">der</tspan>
+  <tspan x="199.0" y="1093.75" font-size="28.5px" textLength="140.0" lengthAdjust="spacingAndGlyphs">Identität</tspan>
+  <tspan x="347.5" y="1097.75" font-size="20.5px" textLength="57.5" lengthAdjust="spacingAndGlyphs">von</tspan>
+  <tspan x="413.0" y="1093.75" font-size="28.5px" textLength="113.0" lengthAdjust="spacingAndGlyphs">Bitcoin</tspan>
+  <tspan x="537.0" y="1093.75" font-size="28.5px" textLength="28.0" lengthAdjust="spacingAndGlyphs">in</tspan>
+  <tspan x="575.0" y="1093.75" font-size="28.5px" textLength="96.5" lengthAdjust="spacingAndGlyphs">dieser</tspan>
+  <tspan x="678.0" y="1094.0" font-size="28.0px" textLength="61.5" lengthAdjust="spacingAndGlyphs">Zeit</tspan>
+  <tspan x="748.5" y="1093.75" font-size="28.5px" textLength="91.0" lengthAdjust="spacingAndGlyphs">wider</tspan>
+  <tspan x="846.5" y="1097.75" font-size="2.5px" textLength="19.0" lengthAdjust="spacingAndGlyphs">—</tspan>
+  <tspan x="875.0" y="1094.25" font-size="28.5px" textLength="63.0" lengthAdjust="spacingAndGlyphs">eine</tspan>
+  <tspan x="949.0" y="1098.25" font-size="37.5px" textLength="211.5" lengthAdjust="spacingAndGlyphs">Veränderung,</tspan>
+  <tspan x="1172.5" y="1094.25" font-size="28.5px" textLength="46.0" lengthAdjust="spacingAndGlyphs">die</tspan>
+  <tspan x="139.5" y="1151.5" font-size="37.0px" textLength="127.0" lengthAdjust="spacingAndGlyphs">parallel</tspan>
+  <tspan x="274.0" y="1151.25" font-size="20.5px" textLength="56.0" lengthAdjust="spacingAndGlyphs">zur</tspan>
+  <tspan x="337.0" y="1151.5" font-size="37.0px" textLength="283.5" lengthAdjust="spacingAndGlyphs">Implementierung</tspan>
+  <tspan x="628.5" y="1151.25" font-size="20.5px" textLength="58.0" lengthAdjust="spacingAndGlyphs">von</tspan>
+  <tspan x="695.5" y="1151.75" font-size="36.5px" textLength="115.5" lengthAdjust="spacingAndGlyphs">SegWit</tspan>
+  <tspan x="821.5" y="1147.25" font-size="28.5px" textLength="60.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="891.0" y="1147.5" font-size="29.0px" textLength="56.0" lengthAdjust="spacingAndGlyphs">den</tspan>
+  <tspan x="955.5" y="1147.5" font-size="29.0px" textLength="147.5" lengthAdjust="spacingAndGlyphs">Debatten</tspan>
+  <tspan x="1114.0" y="1151.75" font-size="20.5px" textLength="49.0" lengthAdjust="spacingAndGlyphs">um</tspan>
+  <tspan x="1173.5" y="1147.5" font-size="29.0px" textLength="46.5" lengthAdjust="spacingAndGlyphs">die</tspan>
+  <tspan x="140.0" y="1205.25" font-size="37.5px" textLength="179.5" lengthAdjust="spacingAndGlyphs">Skalierung</tspan>
+  <tspan x="327.0" y="1204.75" font-size="37.5px" textLength="132.0" lengthAdjust="spacingAndGlyphs">erfolgte.</tspan>
+  <tspan x="470.0" y="1201.0" font-size="28.0px" textLength="87.5" lengthAdjust="spacingAndGlyphs">Diese</tspan>
+  <tspan x="569.5" y="1205.0" font-size="37.0px" textLength="212.0" lengthAdjust="spacingAndGlyphs">Veränderung</tspan>
+  <tspan x="788.0" y="1205.5" font-size="37.0px" textLength="149.5" lengthAdjust="spacingAndGlyphs">passierte</tspan>
+  <tspan x="945.0" y="1208.75" font-size="30.5px" textLength="101.0" lengthAdjust="spacingAndGlyphs">genau</tspan>
+  <tspan x="1057.5" y="1201.25" font-size="28.5px" textLength="28.5" lengthAdjust="spacingAndGlyphs">in</tspan>
+  <tspan x="1096.5" y="1201.0" font-size="29.0px" textLength="53.5" lengthAdjust="spacingAndGlyphs">der</tspan>
+  <tspan x="1157.5" y="1203.75" font-size="33.5px" textLength="69.5" lengthAdjust="spacingAndGlyphs">Zeit,</tspan>
+  <tspan x="142.5" y="1254.0" font-size="28.0px" textLength="29.0" lengthAdjust="spacingAndGlyphs">in</tspan>
+  <tspan x="184.0" y="1254.0" font-size="28.0px" textLength="54.0" lengthAdjust="spacingAndGlyphs">der</tspan>
+  <tspan x="249.0" y="1254.0" font-size="28.0px" textLength="55.0" lengthAdjust="spacingAndGlyphs">das</tspan>
+  <tspan x="317.5" y="1253.75" font-size="28.5px" textLength="129.0" lengthAdjust="spacingAndGlyphs">indirekt</tspan>
+  <tspan x="457.5" y="1257.75" font-size="20.5px" textLength="58.5" lengthAdjust="spacingAndGlyphs">von</tspan>
+  <tspan x="526.5" y="1258.5" font-size="36.0px" textLength="122.5" lengthAdjust="spacingAndGlyphs">Epstein</tspan>
+  <tspan x="655.5" y="1258.0" font-size="36.0px" textLength="183.0" lengthAdjust="spacingAndGlyphs">finanzierte</tspan>
+  <tspan x="848.5" y="1255.0" font-size="26.0px" textLength="71.0" lengthAdjust="spacingAndGlyphs">MIT</tspan>
+  <tspan x="929.0" y="1254.5" font-size="28.0px" textLength="103.0" lengthAdjust="spacingAndGlyphs">Media</tspan>
+  <tspan x="1042.0" y="1254.0" font-size="28.0px" textLength="62.5" lengthAdjust="spacingAndGlyphs">Lab</tspan>
+  <tspan x="1117.0" y="1258.25" font-size="20.5px" textLength="39.5" lengthAdjust="spacingAndGlyphs">an</tspan>
+  <tspan x="1169.0" y="1254.5" font-size="28.0px" textLength="54.0" lengthAdjust="spacingAndGlyphs">der</tspan>
+  <tspan x="139.0" y="1311.25" font-size="37.5px" textLength="208.5" lengthAdjust="spacingAndGlyphs">Entwicklung</tspan>
+  <tspan x="357.0" y="1311.0" font-size="21.0px" textLength="58.0" lengthAdjust="spacingAndGlyphs">von</tspan>
+  <tspan x="425.5" y="1307.25" font-size="28.5px" textLength="116.5" lengthAdjust="spacingAndGlyphs">Bitcoin</tspan>
+  <tspan x="554.0" y="1311.5" font-size="37.0px" textLength="133.0" lengthAdjust="spacingAndGlyphs">beteiligt</tspan>
+  <tspan x="698.0" y="1313.75" font-size="25.5px" textLength="67.5" lengthAdjust="spacingAndGlyphs">war,</tspan>
+  <tspan x="780.5" y="1311.5" font-size="21.0px" textLength="63.0" lengthAdjust="spacingAndGlyphs">was</tspan>
+  <tspan x="854.0" y="1311.75" font-size="20.5px" textLength="38.5" lengthAdjust="spacingAndGlyphs">zu</tspan>
+  <tspan x="903.5" y="1311.75" font-size="37.5px" textLength="233.5" lengthAdjust="spacingAndGlyphs">Spekulationen</tspan>
+  <tspan x="1150.5" y="1307.75" font-size="28.5px" textLength="73.5" lengthAdjust="spacingAndGlyphs">über</tspan>
+  <tspan x="139.0" y="1365.0" font-size="37.0px" textLength="133.5" lengthAdjust="spacingAndGlyphs">Epsteins</tspan>
+  <tspan x="282.5" y="1364.75" font-size="37.5px" textLength="163.5" lengthAdjust="spacingAndGlyphs">möglichen</tspan>
+  <tspan x="454.0" y="1364.5" font-size="37.0px" textLength="125.0" lengthAdjust="spacingAndGlyphs">Einfluss</tspan>
+  <tspan x="589.0" y="1364.75" font-size="37.5px" textLength="56.5" lengthAdjust="spacingAndGlyphs">auf</tspan>
+  <tspan x="648.5" y="1360.5" font-size="29.0px" textLength="46.0" lengthAdjust="spacingAndGlyphs">die</tspan>
+  <tspan x="702.0" y="1365.0" font-size="37.0px" textLength="203.0" lengthAdjust="spacingAndGlyphs">Entwicklung</tspan>
+  <tspan x="912.0" y="1364.75" font-size="20.5px" textLength="56.5" lengthAdjust="spacingAndGlyphs">von</tspan>
+  <tspan x="976.5" y="1361.25" font-size="28.5px" textLength="114.0" lengthAdjust="spacingAndGlyphs">Bitcoin</tspan>
+  <tspan x="1094.5" y="1365.0" font-size="37.0px" textLength="126.5" lengthAdjust="spacingAndGlyphs">führte.«</tspan>
+</text>
+<text x="142.0" y="1452.0" xml:space="preserve"> </text>
+<text x="142.0" y="1453.0">
+  <tspan x="142.0" y="1468.25" font-size="27.5px" textLength="34.0" lengthAdjust="spacingAndGlyphs">In</tspan>
+  <tspan x="186.5" y="1467.5" font-size="29.0px" textLength="139.5" lengthAdjust="spacingAndGlyphs">Rahmen</tspan>
+  <tspan x="337.5" y="1467.75" font-size="28.5px" textLength="85.5" lengthAdjust="spacingAndGlyphs">eines</tspan>
+  <tspan x="434.0" y="1467.75" font-size="29.5px" textLength="181.5" lengthAdjust="spacingAndGlyphs">Interviews</tspan>
+  <tspan x="625.0" y="1471.5" font-size="21.0px" textLength="74.0" lengthAdjust="spacingAndGlyphs">vom</tspan>
+  <tspan x="709.5" y="1468.25" font-size="27.5px" textLength="45.5" lengthAdjust="spacingAndGlyphs">22.</tspan>
+  <tspan x="766.5" y="1468.0" font-size="29.0px" textLength="63.5" lengthAdjust="spacingAndGlyphs">Mai</tspan>
+  <tspan x="841.0" y="1468.5" font-size="28.0px" textLength="77.5" lengthAdjust="spacingAndGlyphs">2024</tspan>
+  <tspan x="927.0" y="1468.25" font-size="29.5px" textLength="180.5" lengthAdjust="spacingAndGlyphs">beschreibt</tspan>
+  <tspan x="1116.5" y="1468.75" font-size="27.5px" textLength="105.0" lengthAdjust="spacingAndGlyphs">Aaron</tspan>
+  <tspan x="142.0" y="1526.0" font-size="35.0px" textLength="64.5" lengthAdjust="spacingAndGlyphs">Day</tspan>
+  <tspan x="216.5" y="1521.25" font-size="28.5px" textLength="85.5" lengthAdjust="spacingAndGlyphs">seine</tspan>
+  <tspan x="314.0" y="1525.25" font-size="36.5px" textLength="132.0" lengthAdjust="spacingAndGlyphs">eigenen</tspan>
+  <tspan x="456.5" y="1525.25" font-size="37.5px" textLength="218.0" lengthAdjust="spacingAndGlyphs">Erfahrungen</tspan>
+  <tspan x="684.5" y="1521.5" font-size="29.0px" textLength="51.0" lengthAdjust="spacingAndGlyphs">bei</tspan>
+  <tspan x="746.5" y="1521.0" font-size="29.0px" textLength="55.5" lengthAdjust="spacingAndGlyphs">der</tspan>
+  <tspan x="811.5" y="1525.75" font-size="37.5px" textLength="207.5" lengthAdjust="spacingAndGlyphs">Anwendung</tspan>
+  <tspan x="1028.5" y="1525.5" font-size="21.0px" textLength="63.5" lengthAdjust="spacingAndGlyphs">von</tspan>
+  <tspan x="1102.0" y="1521.75" font-size="28.5px" textLength="119.5" lengthAdjust="spacingAndGlyphs">Bitcoin</tspan>
+  <tspan x="142.5" y="1574.5" font-size="29.0px" textLength="45.0" lengthAdjust="spacingAndGlyphs">als</tspan>
+  <tspan x="198.5" y="1578.5" font-size="37.0px" textLength="257.0" lengthAdjust="spacingAndGlyphs">Zahlungsmittel</tspan>
+  <tspan x="465.5" y="1574.25" font-size="28.5px" textLength="43.0" lengthAdjust="spacingAndGlyphs">im</tspan>
+  <tspan x="518.0" y="1578.5" font-size="37.0px" textLength="107.5" lengthAdjust="spacingAndGlyphs">Alltag.</tspan>
+  <tspan x="637.0" y="1574.5" font-size="29.0px" textLength="69.0" lengthAdjust="spacingAndGlyphs">Und</tspan>
+  <tspan x="717.0" y="1574.5" font-size="29.0px" textLength="49.5" lengthAdjust="spacingAndGlyphs">die</tspan>
+  <tspan x="778.5" y="1574.5" font-size="29.0px" textLength="71.0" lengthAdjust="spacingAndGlyphs">sind</tspan>
+  <tspan x="859.5" y="1574.5" font-size="29.0px" textLength="86.5" lengthAdjust="spacingAndGlyphs">nicht</tspan>
+  <tspan x="955.0" y="1574.5" font-size="29.0px" textLength="144.0" lengthAdjust="spacingAndGlyphs">wirklich</tspan>
+  <tspan x="1108.5" y="1579.0" font-size="37.0px" textLength="120.5" lengthAdjust="spacingAndGlyphs">positiv.</tspan>
+  <tspan x="143.0" y="1628.5" font-size="27.0px" textLength="90.5" lengthAdjust="spacingAndGlyphs">Denn</tspan>
+  <tspan x="245.0" y="1627.75" font-size="28.5px" textLength="128.5" lengthAdjust="spacingAndGlyphs">volatile</tspan>
+  <tspan x="386.0" y="1631.75" font-size="37.5px" textLength="182.0" lengthAdjust="spacingAndGlyphs">Akzeptanz</tspan>
+  <tspan x="581.0" y="1627.75" font-size="28.5px" textLength="33.5" lengthAdjust="spacingAndGlyphs">in</tspan>
+  <tspan x="626.0" y="1628.0" font-size="29.0px" textLength="184.5" lengthAdjust="spacingAndGlyphs">Wirtschaft</tspan>
+  <tspan x="823.0" y="1628.0" font-size="29.0px" textLength="67.5" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="903.5" y="1628.0" font-size="29.0px" textLength="208.0" lengthAdjust="spacingAndGlyphs">Gesellschaft</tspan>
+  <tspan x="1124.5" y="1628.25" font-size="28.5px" textLength="96.5" lengthAdjust="spacingAndGlyphs">sowie</tspan>
+  <tspan x="144.0" y="1681.0" font-size="29.0px" textLength="219.0" lengthAdjust="spacingAndGlyphs">zunehmende</tspan>
+  <tspan x="374.5" y="1685.25" font-size="37.5px" textLength="207.0" lengthAdjust="spacingAndGlyphs">Regulierung</tspan>
+  <tspan x="592.0" y="1681.5" font-size="29.0px" textLength="115.0" lengthAdjust="spacingAndGlyphs">seitens</tspan>
+  <tspan x="718.5" y="1681.5" font-size="29.0px" textLength="56.0" lengthAdjust="spacingAndGlyphs">der</tspan>
+  <tspan x="784.5" y="1681.5" font-size="29.0px" textLength="281.5" lengthAdjust="spacingAndGlyphs">Finanzbehörden</tspan>
+  <tspan x="1076.5" y="1681.5" font-size="29.0px" textLength="147.5" lengthAdjust="spacingAndGlyphs">machten</tspan>
+  <tspan x="143.5" y="1738.5" font-size="21.0px" textLength="32.0" lengthAdjust="spacingAndGlyphs">es</tspan>
+  <tspan x="188.5" y="1734.5" font-size="29.0px" textLength="66.5" lengthAdjust="spacingAndGlyphs">ihm</tspan>
+  <tspan x="267.5" y="1734.75" font-size="28.5px" textLength="80.0" lengthAdjust="spacingAndGlyphs">über</tspan>
+  <tspan x="360.5" y="1734.5" font-size="29.0px" textLength="49.5" lengthAdjust="spacingAndGlyphs">die</tspan>
+  <tspan x="421.5" y="1739.0" font-size="37.0px" textLength="91.5" lengthAdjust="spacingAndGlyphs">Jahre</tspan>
+  <tspan x="526.0" y="1734.75" font-size="28.5px" textLength="115.0" lengthAdjust="spacingAndGlyphs">immer</tspan>
+  <tspan x="653.5" y="1737.25" font-size="33.5px" textLength="167.5" lengthAdjust="spacingAndGlyphs">schwerer,</tspan>
+  <tspan x="835.0" y="1735.0" font-size="29.0px" textLength="68.5" lengthAdjust="spacingAndGlyphs">sein</tspan>
+  <tspan x="916.0" y="1735.0" font-size="29.0px" textLength="104.5" lengthAdjust="spacingAndGlyphs">Leben</tspan>
+  <tspan x="1033.0" y="1735.25" font-size="28.5px" textLength="57.0" lengthAdjust="spacingAndGlyphs">mit</tspan>
+  <tspan x="1102.5" y="1735.25" font-size="28.5px" textLength="120.0" lengthAdjust="spacingAndGlyphs">Bitcoin</tspan>
+  <tspan x="144.5" y="1792.25" font-size="20.5px" textLength="40.5" lengthAdjust="spacingAndGlyphs">zu</tspan>
+  <tspan x="201.0" y="1788.0" font-size="29.0px" textLength="223.0" lengthAdjust="spacingAndGlyphs">finanzieren.</tspan>
+  <tspan x="441.0" y="1792.25" font-size="37.5px" textLength="143.5" lengthAdjust="spacingAndGlyphs">Folglich</tspan>
+  <tspan x="600.0" y="1788.25" font-size="28.5px" textLength="42.0" lengthAdjust="spacingAndGlyphs">ist</tspan>
+  <tspan x="659.0" y="1792.0" font-size="21.0px" textLength="35.5" lengthAdjust="spacingAndGlyphs">er</tspan>
+  <tspan x="709.5" y="1788.0" font-size="29.0px" textLength="101.5" lengthAdjust="spacingAndGlyphs">heute</tspan>
+  <tspan x="828.5" y="1788.0" font-size="29.0px" textLength="60.5" lengthAdjust="spacingAndGlyphs">auf</tspan>
+  <tspan x="902.5" y="1788.25" font-size="28.5px" textLength="74.5" lengthAdjust="spacingAndGlyphs">eine</tspan>
+  <tspan x="992.5" y="1788.25" font-size="28.5px" textLength="150.0" lengthAdjust="spacingAndGlyphs">Vielzahl</tspan>
+  <tspan x="1157.0" y="1792.0" font-size="21.0px" textLength="68.0" lengthAdjust="spacingAndGlyphs">von</tspan>
+  <tspan x="144.0" y="1845.75" font-size="37.5px" textLength="336.0" lengthAdjust="spacingAndGlyphs">Kryptowährungen,</tspan>
+  <tspan x="494.0" y="1846.0" font-size="37.0px" textLength="124.5" lengthAdjust="spacingAndGlyphs">Logins,</tspan>
+  <tspan x="635.0" y="1846.5" font-size="36.0px" textLength="143.0" lengthAdjust="spacingAndGlyphs">»Swaps«</tspan>
+  <tspan x="794.0" y="1845.75" font-size="37.5px" textLength="285.5" lengthAdjust="spacingAndGlyphs">(Umwechslung),</tspan>
+  <tspan x="1093.0" y="1844.0" font-size="34.0px" textLength="139.0" lengthAdjust="spacingAndGlyphs">Wallets,</tspan>
+</text>
+</svg>

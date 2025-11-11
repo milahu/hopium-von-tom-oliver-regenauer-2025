@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ version="1.1" viewBox="0 0 1390 2152"
+ width="1390" height="2152"
+ style="margin:auto"
+>
+<style>
+text, tspan { dominant-baseline: mathematical; fill: transparent; }
+svg { background: #e2e2e2; }
+@media (prefers-color-scheme: dark) {
+ svg { background: #1b1b1b; }
+ image { filter: invert(); }
+}
+</style>
+<image x="0" y="0" width="1390" height="2152" preserveAspectRatio="none" xlink:href="images/001.avif"/>
+<text x="573.5" y="996.5" xml:space="preserve"> </text>
+<text x="573.5" y="997.5">
+  <tspan x="573.5" y="1012.75" font-size="28.5px" textLength="59.5" lengthAdjust="spacingAndGlyphs">Für</tspan>
+  <tspan x="645.0" y="1012.5" font-size="29.0px" textLength="50.0" lengthAdjust="spacingAndGlyphs">die</tspan>
+  <tspan x="708.0" y="1012.25" font-size="29.5px" textLength="146.5" lengthAdjust="spacingAndGlyphs">Zukunft.</tspan>
+</text>
+</svg>
