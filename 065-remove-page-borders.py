@@ -6,7 +6,13 @@ OUTPUT_DIR = "065-remove-page-borders"
 # === Tuning parameters ===
 # fill this border with the detected background color
 # smaller value = lower risk of errors
-BORDER_SIZE = 30  # pixels
+# page 363: only 10 pixels from border to content
+# page 371: only 8 pixels from border to content
+BORDER_SIZE = 5  # pixels
+# detect border color from N pixels inside of the border
+BORDER_DETECT_COLOR_SIZE = 1
+# dont fill border on these input filenames
+BORDER_SKIP_FILENAMES = []
 
 """
 AI prompt:
@@ -116,28 +122,33 @@ def process_image(in_path, out_path):
     M = cv2.getPerspectiveTransform(rect, dst)
     warped = cv2.warpPerspective(img, M, (maxWidth, maxHeight))
 
-    # --- Step 6: fill border from local averages ---
-    h, w = warped.shape[:2]
-    b = BORDER_SIZE
-    canvas = warped.copy()
+    if os.path.basename(in_path) in BORDER_SKIP_FILENAMES:
+        # dont fill border
+        canvas = warped
+    else:
+        # --- Step 6: fill border from local averages ---
+        h, w = warped.shape[:2]
+        b = BORDER_SIZE
+        c = BORDER_DETECT_COLOR_SIZE
+        canvas = warped.copy()
 
-    def avg_color_strip(img, axis, start, end, strip_width=1):
-        if axis == 'top':
-            strip = img[start:end, :, :]
-        elif axis == 'bottom':
-            strip = img[h-end:h-start, :, :]
-        elif axis == 'left':
-            strip = img[:, start:end, :]
-        elif axis == 'right':
-            strip = img[:, w-end:w-start, :]
-        else:
-            raise ValueError("Invalid axis")
-        return np.mean(strip, axis=(0,1)).astype(np.uint8)
+        def avg_color_strip(img, axis, start, end, strip_width=1):
+            if axis == 'top':
+                strip = img[start:end, :, :]
+            elif axis == 'bottom':
+                strip = img[h-end:h-start, :, :]
+            elif axis == 'left':
+                strip = img[:, start:end, :]
+            elif axis == 'right':
+                strip = img[:, w-end:w-start, :]
+            else:
+                raise ValueError("Invalid axis")
+            return np.mean(strip, axis=(0,1)).astype(np.uint8)
 
-    canvas[0:b, :, :] = avg_color_strip(canvas, 'top', 50, 100)
-    canvas[h-b:h, :, :] = avg_color_strip(canvas, 'bottom', 50, 100)
-    canvas[:, 0:b, :] = avg_color_strip(canvas, 'left', 50, 100)
-    canvas[:, w-b:w, :] = avg_color_strip(canvas, 'right', 50, 100)
+        canvas[0:b, :, :] = avg_color_strip(canvas, 'top', b, b+c)
+        canvas[h-b:h, :, :] = avg_color_strip(canvas, 'bottom', b, b+c)
+        canvas[:, 0:b, :] = avg_color_strip(canvas, 'left', b, b+c)
+        canvas[:, w-b:w, :] = avg_color_strip(canvas, 'right', b, b+c)
 
     if 0:
         # --- Step 7: debug visualization ---
