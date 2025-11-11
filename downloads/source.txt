@@ -1,0 +1,14 @@
+https://www.regenauer.press/blog#1781592501
+
+Blog-Archiv 2024 (ZIP-File)
+
+https://cdn.website-editor.net/s/14baa7baa5d54c2d96acd66397a9cff2/files/uploaded/Archiv_Blog_Texte_-_2024.zip?Expires=1764228330&Signature=i3rgMGk~aLuj6ezLUnDXdv8FzOF9nWqVodEY4ndUKO5b0UQH7mO1T6Bpjs6EG2mQ4f5kR2cWBzA8JHy9Pg8OAgJWb9pnG~4ClebtqqIBUaMSZW39C3U-p4MyYF2vYCCDTRvL3zf4AOIt-6jLlL8rXiWCCz0lHzBMMcAj6dE1OmFr~TSl4JMLL8ZpKWPcuroa7hpTtrv7M9LkWFZ4bBgz-Mk34TrIjO4E1~3TisUxGL5OWiD6Ujd3fCO3RGQWxLtlm5-tfk5e8xuczO6JP9sSZpy~InEbIlbI2lix2LHC5AWvGI6VRysO6lxWwZPQITK7-SRDtwRUC~KonmrUwig6Bw__&Key-Pair-Id=K2NXBXLF010TJW
+
+$ md5sum Archiv_Blog_Texte_-_2024.zip 
+c9f160c4e89223aba3e0d8e8b5712cb2  Archiv_Blog_Texte_-_2024.zip
+
+$ sha1sum Archiv_Blog_Texte_-_2024.zip 
+fd3ab3c3c0494a6de4061347028b9b23912a89d7  Archiv_Blog_Texte_-_2024.zip
+
+$ sha256sum Archiv_Blog_Texte_-_2024.zip 
+51f4ed54dd517f160e3fb1fbdea2bcdab34a14ac9e917ff704b2cc2569ed1e5d  Archiv_Blog_Texte_-_2024.zip
