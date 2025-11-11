@@ -1,10 +1,8 @@
 # TODO set config values
 
-# scan time: 603 seconds for 590 pages = 1.022 seconds per page
-# the last 2 pages are empty
-num_pages=592
-scan_x=147
-scan_y=231
+num_pages=376
+scan_x=117
+scan_y=191
 
 # add margin
 scan_x=$((scan_x + 10))
@@ -14,5 +12,6 @@ scan_resolution=600
 scan_format=tiff
 
 # these values depend on the scanner model
+#scan_mode="24bit Color[Fast]"
 scan_mode="True Gray"
 scan_source="Automatic Document Feeder(left aligned,Duplex)"
